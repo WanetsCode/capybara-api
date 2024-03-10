@@ -24,6 +24,7 @@ var (
 		"They have a gestation period of about 130-150 days and usually give birth to 4-5 babies at a time.",
 		"Capybaras are great climbers and will often climb onto tree stumps and logs to look out for danger.",
 		"Their scientific name, Hydrochoerus hydrochaeris, is Greek for 'water hog.'",
+		"They are made out of fur"
 		"Despite their large size, capybaras are very agile and can easily maneuver through the thick underbrush of their native habitats.",
 		"Capybaras have even been known to play with other animals, including kittens and puppies.",
 		"Capybara skin secretes a substance that is thought to be a natural sunscreen.",
